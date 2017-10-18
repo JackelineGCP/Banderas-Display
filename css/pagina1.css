@@ -1,0 +1,15 @@
+div{
+    margin: 10px;
+    height: 200px;
+    padding: 5px;
+}
+
+
+.yellow{
+    background-color: #ffc107;
+}
+
+.black{
+    background-color: black;
+    color : white;
+
